@@ -1,4 +1,4 @@
-module github.com/sirupsen/logrus
+module github.com/bilas2021/logrus
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
